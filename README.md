@@ -3,13 +3,12 @@ Create a free Datastax account at https://www.datastax.com/
 
   Click Create Database
 
-  ![Graphical user interface, application, email  Description automatically generated](https://github.com/cosc-516-2022/lab10/blob/main/Cassandra/README.assets/clip_image002.jpg?raw=true)
-
+  <img src="Cassandra/README.assets/clip_image002.jpg" alt="Create Cluster">
    
 
   Name your database and keyspace – remember your keyspace’s name! Select under provider and region “Google Cloud” -“North America” -“Moncks Corner, South California”. Make sure the current plan is free, and click “Create Database”.
 
-  ![Graphical user interface, application  Description automatically generated](https://github.com/cosc-516-2022/lab10/blob/main/Cassandra/README.assets/clip_image004.jpg?raw=true)
+  <img src="Cassandra/README.assets/clip_image004.jpg" alt="Create Cluster">
 
    
 
@@ -21,17 +20,17 @@ Create a free Datastax account at https://www.datastax.com/
 
   Once it’s saved, click “Go to Database”.
 
-  ![Graphical user interface, application  Description automatically generated](https://github.com/cosc-516-2022/lab10/blob/main/Cassandra/README.assets/clip_image006.jpg?raw=true)
+  <img src="Cassandra/README.assets/clip_image006.jpg" alt="Create Cluster">
 
   Under dashboard, click the database you just created and go to “CQL Console”.
 
-  ![Graphical user interface, application, email  Description automatically generated](https://github.com/cosc-516-2022/lab10/blob/main/Cassandra/README.assets/clip_image008.jpg)
+ <img src="Cassandra/README.assets/clip_image008.jpg" alt="Create Cluster">
   
 ## Run CQL queries in the Datastax console
 
   In the console, you could test your CQL queries.
 
-  ![Graphical user interface, text, application, Teams  Description automatically generated](https://github.com/cosc-516-2022/lab10/blob/main/Cassandra/README.assets/clip_image010.jpg?raw=true)
+ <img src="Cassandra/README.assets/clip_image010.jpg" alt="Create Cluster">
 
   Datastax has its own documentary “DataStax Python Driver” for how to execute CQL queries using Python.
 
