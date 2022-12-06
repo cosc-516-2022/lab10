@@ -27,7 +27,7 @@ Create a free Datastax account at https://www.datastax.com/
 
   ![Graphical user interface, application, email  Description automatically generated](https://github.com/cosc-516-2022/lab10/blob/main/Cassandra/README.assets/clip_image008.jpg)
   
-##Run CQL queries in the Datastax console
+## Run CQL queries in the Datastax console
 
   In the console, you could test your CQL queries.
 
@@ -42,7 +42,7 @@ Create a free Datastax account at https://www.datastax.com/
    
 
   Write Python code using VS Code. The file to edit is “cassandra.py”. The test file is “test_cassandra.py”. Fill in the methods requested (search for **TODO**). Marks for each method are below. You will receive the marks if you pass the pytest tests **AND** have followed the requirements asked for in the question (including documentation and proper formatting).
-##Tasks
+## Tasks
   - +? mark -  Write the method connect() to create a connection to Datastax.
   - +? mark -  Write the method create() to create a table with proper schema, PLEASE NAME IT "Customer".
   - +? marks - Write the methods load () customer.csv into the Datastax. Use appropriate   data structures.
