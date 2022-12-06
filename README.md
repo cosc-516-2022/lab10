@@ -43,14 +43,15 @@ Create a free Datastax account at https://www.datastax.com/
 
   Write Python code using VS Code. The file to edit is “cassandra.py”. The test file is “test_cassandra.py”. Fill in the methods requested (search for **TODO**). Marks for each method are below. You will receive the marks if you pass the pytest tests **AND** have followed the requirements asked for in the question (including documentation and proper formatting).
 ## Tasks
-  - +? mark -  Write the method connect() to create a connection to Datastax.
-  - +? mark -  Write the method create() to create a table with proper schema, PLEASE NAME IT "Customer".
-  - +? marks - Write the methods load () customer.csv into the Datastax. Use appropriate   data structures.
-  - +? marks - Write the method query1() that returns the age of the customer whose id is 979863.
-  - +? marks - Write the method query2() that returns information of customers who  are “MALE” and age is 25 or 35.
-## Bonus Marks: (up to 3)
+  - +1 mark -  Write the method connect() to create a connection to Datastax.
+  - +1 mark -  Write the method create() to create a table with proper schema, PLEASE NAME IT "Customer".
+  - +2 marks - Write the methods load() customer.csv into the Datastax. Use appropriate data structures.
+  - +2 marks - Write the method query1() that returns the age of the customer whose id is 979863.
+  - +2 marks - Write the method query2() that returns information of customers who  are “MALE” and age is 25 or 35.
 
-- Up to +3 bonus marks for demonstrating some other unique feature of Cassandra.
+## Bonus Marks: (up to 2)
+
+- Up to +2 bonus marks for demonstrating some other unique feature of Cassandra.
 
 ## Submission
 
